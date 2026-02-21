@@ -23,4 +23,7 @@ HTML: semantic page structure and navigation
 CSS: layout styling, responsive design, and visual appearance
 EDITOR: Visual Studio Code
 BROWSER: Google Chrome
+
 #OUTPUT
+<img width="1723" height="718" alt="Image" src="https://github.com/user-attachments/assets/66256953-fa8a-4393-81f8-a7b44b3f93c5" />
+<img width="1060" height="873" alt="Image" src="https://github.com/user-attachments/assets/734edefa-05de-4de8-8f6d-29452dac3d15" />
